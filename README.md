@@ -20,8 +20,6 @@ cd catkin_ws/src
 
 git clone https://github.com/alanexplorer/SpeechRecognition.git
 
-cd pocketsphinx/
-
 ## Installation Support Library:
 
 dpkg -i libsphinxbase1_0.8-6_amd64.deb
